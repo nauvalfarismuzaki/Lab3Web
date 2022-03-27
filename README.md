@@ -20,6 +20,14 @@ Untuk mebuat Unodered list kita menggunakan misal titik kotak atau bulat kecil d
 
 ![Membuat Unordered list](pictures/gambar2.png)
 
+3. **Membuat Description List**
+
+Kemudian membuat deklarasi list tanpa tanda didepannya, berikut contohnya
+
+![Membuat Deklarasi list](pictures/gambar3.png)
+
+
+
 
 
 
