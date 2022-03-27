@@ -10,8 +10,16 @@
 
 1. **Membuat Ordered List**
 
-Untuk mebuat ordered list kita menggunakan syntax ini, Berikut contohnya.
+Untuk mebuat ordered list kita menggunakan misal angka atau huruf dan lainnnya, Berikut contohnya.
 
 ![Membuat ordered list](pictures/gambar1.png)
+
+2. **Membuat Unorderd List**
+
+Untuk mebuat Unodered list kita menggunakan misal titik kotak atau bulat kecil dan lainnnya, Berikut contohnya.
+
+![Membuat Unordered list](pictures/gambar2.png)
+
+
 
 
