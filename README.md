@@ -32,6 +32,15 @@ Berikut adalah contoh membuat list di dalam tabel, berikut gambarnya
 
 ![membuat tabel](pictures/gambar4.png)
 
+5. **Menggabungkan Sel Data**
+
+Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk 
+menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom, secara 
+horizontal. Berikut gambarnya
+
+![Menggambungkan sel Data](pictures/gambar5.png)
+
+
 
 
 
