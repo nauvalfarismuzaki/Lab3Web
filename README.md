@@ -40,6 +40,12 @@ horizontal. Berikut gambarnya
 
 ![Menggambungkan sel Data](pictures/gambar5.png)
 
+6. **Membuat form**
+
+selanjut dilangkah ini saya membuat langkah langkat tetang pembuat form, berikut gambaar contohnya
+
+![Membuat Form](pictures/gambar7.png)
+
 
 
 
