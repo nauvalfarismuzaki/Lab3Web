@@ -47,6 +47,12 @@ selanjut dilangkah ini saya membuat langkah langkat tetang pembuat form, berikut
 ![Membuat Form](pictures/gambar7.png)
 
 
+**Pertanyaan dan Tugas**
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+![Dropdown](pictures/gambar8.png)
+
+
 
 
 
