@@ -26,6 +26,11 @@ Kemudian membuat deklarasi list tanpa tanda didepannya, berikut contohnya
 
 ![Membuat Deklarasi list](pictures/gambar3.png)
 
+4. **Membuat Tabel**
+
+Berikut adalah contoh membuat list di dalam tabel, berikut gambarnya
+
+![membuat tabel](pictures/gambar4.png)
 
 
 
