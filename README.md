@@ -12,6 +12,6 @@
 
 Untuk mebuat ordered list kita menggunakan syntax ini, Berikut contohnya.
 
-![Membuat ordered list](pictures/pict1.png)
+![Membuat ordered list](pictures/gambar1.png)
 
 
